@@ -1,0 +1,12 @@
+D:\VB Project\VB Project\Power Point Slide Changer with Android\Power Point Slide Changer with Android\bin\Debug\Power Point Slide Changer with Android.exe.config
+D:\VB Project\VB Project\Power Point Slide Changer with Android\Power Point Slide Changer with Android\bin\Debug\Power Point Slide Changer with Android.exe
+D:\VB Project\VB Project\Power Point Slide Changer with Android\Power Point Slide Changer with Android\bin\Debug\Power Point Slide Changer with Android.pdb
+D:\VB Project\VB Project\Power Point Slide Changer with Android\Power Point Slide Changer with Android\bin\Debug\Power Point Slide Changer with Android.xml
+D:\VB Project\VB Project\Power Point Slide Changer with Android\Power Point Slide Changer with Android\obj\Debug\Power Point Slide Changer with Android.vbprojAssemblyReference.cache
+D:\VB Project\VB Project\Power Point Slide Changer with Android\Power Point Slide Changer with Android\obj\Debug\Power_Point_Slide_Changer_with_Android.Form1.resources
+D:\VB Project\VB Project\Power Point Slide Changer with Android\Power Point Slide Changer with Android\obj\Debug\Power_Point_Slide_Changer_with_Android.Resources.resources
+D:\VB Project\VB Project\Power Point Slide Changer with Android\Power Point Slide Changer with Android\obj\Debug\Power Point Slide Changer with Android.vbproj.GenerateResource.cache
+D:\VB Project\VB Project\Power Point Slide Changer with Android\Power Point Slide Changer with Android\obj\Debug\Power Point Slide Changer with Android.vbproj.CoreCompileInputs.cache
+D:\VB Project\VB Project\Power Point Slide Changer with Android\Power Point Slide Changer with Android\obj\Debug\Power Point Slide Changer with Android.exe
+D:\VB Project\VB Project\Power Point Slide Changer with Android\Power Point Slide Changer with Android\obj\Debug\Power Point Slide Changer with Android.xml
+D:\VB Project\VB Project\Power Point Slide Changer with Android\Power Point Slide Changer with Android\obj\Debug\Power Point Slide Changer with Android.pdb
