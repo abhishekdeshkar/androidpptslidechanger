@@ -1,4 +1,6 @@
-# Power point slide changer
+# Power point slide changer.
+
+![Alt Text](https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge_wm_brw/public/article_images/2015/02/note-4-lp-interruptions.jpg?itok=mJkFPTfC)
 
 This simple program allows you to change your Power point slide using your adnroid device's Volume up and down keys.
 
